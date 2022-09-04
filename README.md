@@ -2,7 +2,7 @@
 ## Bienvenido al repositorio de Kevin Barrio
 **Implementacion de un CDN:**
 
-Debes tener previamente una cuenta en AWS ya sea comercial o educativa para esta prcatica.
+Debes tener previamente una cuenta en AWS ya sea comercial o educativa para esta practica.
 
 ###  Pasos:
 
