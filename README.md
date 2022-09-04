@@ -13,4 +13,4 @@ Debes tener previamente una cuenta en AWS ya sea comercial o educativa para esta
 5. Para poder distribuir mi contenido debo tener el nombre del dominio que CloudFront lo genera automaticamente seguido de un / y el nombre del archivo a distribuir que esta alojado en S3.
 
 ## Referencia en la que me basea para realizar la implementacion
-Video referencial click [Aqui](http://https://www.youtube.com/watch?v=WP7Dpvrl8Ic "Aqui")
+Video referencial click [Aqui](https://www.youtube.com/watch?v=WP7Dpvrl8Ic "Aqui")
